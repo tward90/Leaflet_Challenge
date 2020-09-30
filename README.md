@@ -2,7 +2,7 @@
 
 
 ## Project Instructions
----
+
 The primary objective of the assignment was to use publicly available USGS geoJSON data in order to visualize not only the location of the most recent (*within the last month*) earthquakes but also their magnitude and their significance.
 
 The raw data used to generate the visualization can be found [here](https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/1.0_month.geojson)

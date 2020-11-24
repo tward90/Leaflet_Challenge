@@ -13,6 +13,10 @@ One of the most interesting and challenging aspects of this assignment was its r
 
 When the app is opened, you are greeted with a map of the United States and all of it's earthquakes over the previous month. The size of the marker is entirely dependent upon the magnitude of the earkquake, while the color indicates it's significance.
 
+The standard of earthquake intensity measurement is what is known as the Richter Scale. Developed in 1935 by Charles Richter, it is used to compare the size of the magnitude of earthquakes. Magnitudes of earthquakes are determined from the log of the amplitude of waves that are measured by one or more seismographs positioned around the globe!
+
+
+
 ## Demonstration
 
 ![Demonstration](https://media.giphy.com/media/u84bQTaHr1yNkgyTlY/giphy.gif)

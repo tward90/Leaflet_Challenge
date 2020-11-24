@@ -13,7 +13,7 @@ One of the most interesting and challenging aspects of this assignment was its r
 
 When the app is opened, you are greeted with a map of the United States and all of it's earthquakes over the previous month. The size of the marker is entirely dependent upon the magnitude of the earkquake, while the color indicates it's significance.
 
-![Map Zoom](Images/Project_Zoom_View.jpg)
+![Map Zoom](Images/Project_Zoom_View.png)
 
 When one of the quake markers is clicked, a pop-up is displayed. Within this pop-up contains the earthquake position with respect to the nearkes landmark, the time with respect to the user's local timezone, the magnitude as well as the significance. The magnitude and teh significane are numerically represented in this case, compared to the visual representation on the map itself.
 

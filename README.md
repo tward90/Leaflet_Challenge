@@ -15,7 +15,9 @@ When the app is opened, you are greeted with a map of the United States and all 
 
 The standard of earthquake intensity measurement is what is known as the Richter Scale. Developed in 1935 by Charles Richter, it is used to compare the size of the magnitude of earthquakes. Magnitudes of earthquakes are determined from the log of the amplitude of waves that are measured by one or more seismographs positioned around the globe!
 
+![Richter Visualization](Images/RicherViz.jpg)
 
+![Richter Scale](Images/Richterscale.png)
 
 ## Demonstration
 

@@ -11,7 +11,7 @@ One of the most interesting and challenging aspects of this assignment was its r
 
 ## Project Description
 
-
+When the app is opened, you are greeted with a map of the United States and all of it's earthquakes over the previous month. The size of the marker is entirely dependent upon the magnitude of the earkquake, while the color indicates it's significance.
 
 ## Demonstration
 

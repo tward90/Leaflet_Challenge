@@ -9,8 +9,12 @@ The raw data used to generate the visualization can be found [here](https://eart
 
 One of the most interesting and challenging aspects of this assignment was its requirement to be dynamic. Creating the front end of any web application is one of the areas where a coder can show their more artistic side and put a bit of flair into the project/assignment that wasnt necessary, but adds to the overall presentation.
 
+## Project Description
+
+
+
 ## Demonstration
 
 ![Demonstration](https://media.giphy.com/media/u84bQTaHr1yNkgyTlY/giphy.gif)
 
-The deployed visualization can be found at <https://tward90.github.io/Leaflet_Challenge/>
+The deployed visualization can be found at <https://tward90.github.io/USGS_Earthquake_Visualization/>

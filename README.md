@@ -19,7 +19,7 @@ When one of the quake markers is clicked, a pop-up is displayed. Within this pop
 
 ![Quake Pup-Up](Images/Pop_Up.png)
 
-The standard of earthquake intensity measurement is what is known as the Richter Scale. Developed in 1935 by Charles Richter, it is used to compare the size of the magnitude of earthquakes. Magnitudes of earthquakes are determined from the log of the amplitude of waves that are measured by one or more seismographs positioned around the globe!
+The standard of earthquake intensity measurement is known as the Richter Scale. Developed in 1935 by Charles Richter, it is used to compare the size of the magnitude of earthquakes. Magnitudes of earthquakes are determined from the log of the amplitude of waves that are measured by one or more seismographs positioned around the globe!
 
 ![Richter Visualization](Images/RicherViz.jpg)
 

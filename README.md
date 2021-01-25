@@ -15,7 +15,7 @@ When the app is opened, you are greeted with a map of the United States and all 
 
 ![Map Zoom](Images/Project_Zoom_View.png)
 
-When one of the quake markers is clicked, a pop-up is displayed. Within this pop-up contains the earthquake position with respect to the nearkes landmark, the time with respect to the user's local timezone, the magnitude as well as the significance. The magnitude and teh significane are numerically represented in this case, compared to the visual representation on the map itself.
+When one of the quake markers is clicked, a pop-up is displayed. Within this pop-up contains the earthquake position with respect to the nearest landmark, the time with respect to the user's local timezone, the magnitude as well as the significance. The magnitude and teh significane are numerically represented in this case, compared to the visual representation on the map itself.
 
 ![Quake Pup-Up](Images/Pop_Up.png)
 
